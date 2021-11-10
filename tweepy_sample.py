@@ -3,10 +3,10 @@ import json
 import pandas as pd
 
 # Authenticate to Twitter
-CONSUMER_KEY = "PIqzhDQNxpJ55YVeRjQaGVyjz"
-CONSUMER_SECRET = "MDs2RjQwELGJ2Vw9ti6yyeRko3e6YLvIfijlXfJ4hNRTh2jLkz"
-ACCESS_TOKEN = "1457889815907561475-7kn7FbG3OjBzlts6d0H2N4LZbJaZiA"
-ACCESS_TOKEN_SECRET = "NWfUpwieVYE99UjRIrjdTabIR0ifj7veQDzMraOtgar8y"
+CONSUMER_KEY = "CONSUMER_KEY"
+CONSUMER_SECRET = "CONSUMER_SECRET"
+ACCESS_TOKEN = "ACCESS_TOKEN"
+ACCESS_TOKEN_SECRET = "ACCESS_TOKEN_SECRET"
 QUERY = "'building defect' OR 'apartment defect' OR (%23building and defect)"
 FILE_NAME = 'tweepy_sample.json'
 CSV_FILE = 'tweepy_sample.csv'
