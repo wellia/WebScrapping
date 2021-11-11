@@ -1,0 +1,861 @@
+{
+    "statuses": [
+        {
+            "created_at": "Tue Nov 09 23:04:44 +0000 2021",
+            "id": 1458208964856799232,
+            "id_str": "1458208964856799232",
+            "text": "NSW #stratatitle has been on a long &amp; slow descent into building defect hell. But, hot on the heels of a NSW Buildi… https://t.co/Jr4MFr6GRB",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "stratatitle",
+                        "indices": [
+                            4,
+                            16
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Jr4MFr6GRB",
+                        "expanded_url": "https://twitter.com/i/web/status/1458208964856799232",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 128021087,
+                "id_str": "128021087",
+                "name": "Francesco @ GoStrata",
+                "screen_name": "f_andreone",
+                "location": "Australia",
+                "description": "long-term strata junkie, thinker & operator",
+                "url": "https://t.co/59zYLHPP3k",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/59zYLHPP3k",
+                                "expanded_url": "https://gostrata.substack.com/",
+                                "display_url": "gostrata.substack.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 340,
+                "friends_count": 459,
+                "listed_count": 4,
+                "created_at": "Tue Mar 30 21:58:59 +0000 2010",
+                "favourites_count": 14,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1535,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1349209461198503937/qMr_eUcU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349209461198503937/qMr_eUcU_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Nov 09 09:30:48 +0000 2021",
+            "id": 1458004132208513029,
+            "id_str": "1458004132208513029",
+            "text": "Not every building defect is as a result of the client(s) financial tight handedness, this is poor workmanship from… https://t.co/NtNmIOQ4dY",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/NtNmIOQ4dY",
+                        "expanded_url": "https://twitter.com/i/web/status/1458004132208513029",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 732346988,
+                "id_str": "732346988",
+                "name": "Arc. Tu’fair♥",
+                "screen_name": "PositiveTufair",
+                "location": "England, United Kingdom",
+                "description": "Architect @grand_edifice. || Mental health protagonist || Philanthropist || Social commentator || Manchester United. 🇳🇬🇬🇧",
+                "url": "https://t.co/ACA9EueNDd",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ACA9EueNDd",
+                                "expanded_url": "http://www.grandedifice.com",
+                                "display_url": "grandedifice.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1836,
+                "friends_count": 1430,
+                "listed_count": 2,
+                "created_at": "Thu Aug 02 07:13:04 +0000 2012",
+                "favourites_count": 13171,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2997,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1439359378432348160/7tuaJ-Qc_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1439359378432348160/7tuaJ-Qc_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/732346988/1585692631",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1457980326022729731,
+            "quoted_status_id_str": "1457980326022729731",
+            "quoted_status": {
+                "created_at": "Tue Nov 09 07:56:12 +0000 2021",
+                "id": 1457980326022729731,
+                "id_str": "1457980326022729731",
+                "text": "As seen on the streets https://t.co/1mAWmqjHFL",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1457980310973468673,
+                            "id_str": "1457980310973468673",
+                            "indices": [
+                                23,
+                                46
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FDvJXj0WUAE1fFZ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FDvJXj0WUAE1fFZ.jpg",
+                            "url": "https://t.co/1mAWmqjHFL",
+                            "display_url": "pic.twitter.com/1mAWmqjHFL",
+                            "expanded_url": "https://twitter.com/instablog9ja/status/1457980326022729731/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 601,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1061,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1410,
+                                    "h": 1595,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1457980310973468673,
+                            "id_str": "1457980310973468673",
+                            "indices": [
+                                23,
+                                46
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FDvJXj0WUAE1fFZ.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FDvJXj0WUAE1fFZ.jpg",
+                            "url": "https://t.co/1mAWmqjHFL",
+                            "display_url": "pic.twitter.com/1mAWmqjHFL",
+                            "expanded_url": "https://twitter.com/instablog9ja/status/1457980326022729731/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 601,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1061,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1410,
+                                    "h": 1595,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 754393222563102720,
+                    "id_str": "754393222563102720",
+                    "name": "Instablog9ja",
+                    "screen_name": "instablog9ja",
+                    "location": "",
+                    "description": "24/7 News. Fashion. Lifestyle. Entertainment...... For inquiries, contact: Instablog9ja@gmail.com",
+                    "url": "https://t.co/tg78R95ezP",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/tg78R95ezP",
+                                    "expanded_url": "http://www.instablog9ja.com",
+                                    "display_url": "instablog9ja.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 644615,
+                    "friends_count": 10,
+                    "listed_count": 284,
+                    "created_at": "Sat Jul 16 19:12:15 +0000 2016",
+                    "favourites_count": 2793,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 61171,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1319655300702621699/eb2Vke_4_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319655300702621699/eb2Vke_4_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/754393222563102720/1633032326",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 784,
+                "favorite_count": 2115,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Nov 08 21:22:01 +0000 2021",
+            "id": 1457820727210545164,
+            "id_str": "1457820727210545164",
+            "text": "See how ALM Octane helps Nationwide Building Society achieve up to 90% defect reduction to deliver reliable member… https://t.co/QZiC8RkNdP",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/QZiC8RkNdP",
+                        "expanded_url": "https://twitter.com/i/web/status/1457820727210545164",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 59814418,
+                "id_str": "59814418",
+                "name": "Micro Focus DevOps",
+                "screen_name": "MicroFocusDev",
+                "location": "Worldwide",
+                "description": "Micro Focus’ #appdev & application testing tools can help you plan, develop, test, release, and monitor apps for continuous delivery of a superior user journey.",
+                "url": "https://t.co/3ok6j30oCo",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/3ok6j30oCo",
+                                "expanded_url": "https://www.microfocus.com/en-us/trend/enterprise-devops",
+                                "display_url": "microfocus.com/en-us/trend/en…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4159,
+                "friends_count": 982,
+                "listed_count": 374,
+                "created_at": "Fri Jul 24 15:49:04 +0000 2009",
+                "favourites_count": 448,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 14523,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6C9CA",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1410385538666749955/Y-HvapNk_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410385538666749955/Y-HvapNk_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/59814418/1591987796",
+                "profile_link_color": "0078F0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "8A8A8A",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Nov 08 16:12:22 +0000 2021",
+            "id": 1457742804365430784,
+            "id_str": "1457742804365430784",
+            "text": "@KnittelMIT @JesseJenkins @Stanford @MIT immediately natural gas in the building sector comes to mind. For an equit… https://t.co/q8zI90h03x",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "KnittelMIT",
+                        "name": "Christopher Knittel",
+                        "id": 545566184,
+                        "id_str": "545566184",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "screen_name": "JesseJenkins",
+                        "name": "JesseJenkins",
+                        "id": 17026589,
+                        "id_str": "17026589",
+                        "indices": [
+                            12,
+                            25
+                        ]
+                    },
+                    {
+                        "screen_name": "Stanford",
+                        "name": "Stanford University",
+                        "id": 18036441,
+                        "id_str": "18036441",
+                        "indices": [
+                            26,
+                            35
+                        ]
+                    },
+                    {
+                        "screen_name": "MIT",
+                        "name": "Massachusetts Institute of Technology (MIT)",
+                        "id": 15460048,
+                        "id_str": "15460048",
+                        "indices": [
+                            36,
+                            40
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/q8zI90h03x",
+                        "expanded_url": "https://twitter.com/i/web/status/1457742804365430784",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": 1457741922877927425,
+            "in_reply_to_status_id_str": "1457741922877927425",
+            "in_reply_to_user_id": 545566184,
+            "in_reply_to_user_id_str": "545566184",
+            "in_reply_to_screen_name": "KnittelMIT",
+            "user": {
+                "id": 20930813,
+                "id_str": "20930813",
+                "name": "Jeff Kessler",
+                "screen_name": "JKessler_PhD",
+                "location": "Sacramento, CA",
+                "description": "PhD in #energy and #climate policy. Policy wonk working on #DeepDecarbonization. #Backpacker and #UltralightJerk. Opinions and tweets are my own.",
+                "url": "https://t.co/87Mam4nZif",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/87Mam4nZif",
+                                "expanded_url": "http://trailpeaches.com",
+                                "display_url": "trailpeaches.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 413,
+                "friends_count": 256,
+                "listed_count": 26,
+                "created_at": "Sun Feb 15 19:32:46 +0000 2009",
+                "favourites_count": 361,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2414,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "9AE4E8",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1388262042746777600/MH3eyMKh_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388262042746777600/MH3eyMKh_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20930813/1413685965",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "BDDCAD",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Nov 08 11:52:10 +0000 2021",
+            "id": 1457677320504946694,
+            "id_str": "1457677320504946694",
+            "text": "RT @newsinhousing: A new report has identified structural defect as a major cause of incessant building collapse in Nigeria.\n\nThe report sa…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "newsinhousing",
+                        "name": "Africa Housing News",
+                        "id": 1318149906717155328,
+                        "id_str": "1318149906717155328",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://www.blog2social.com\" rel=\"nofollow\">Blog2Social APP</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2731187508,
+                "id_str": "2731187508",
+                "name": "Housing Development Programme",
+                "screen_name": "housingprogram",
+                "location": "Abuja, Nigeria",
+                "description": "Housing Development is an authoritative source of housing information in Nigeria. A programme that promotes affordable housing and home ownership in Nigeria",
+                "url": "https://t.co/EVfJcmQGz9",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/EVfJcmQGz9",
+                                "expanded_url": "http://Africanhousingnews.com",
+                                "display_url": "Africanhousingnews.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1912,
+                "friends_count": 1849,
+                "listed_count": 1,
+                "created_at": "Thu Aug 14 08:24:45 +0000 2014",
+                "favourites_count": 16458,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11983,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1069522724622610432/qdvcDafg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069522724622610432/qdvcDafg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2731187508/1571732663",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Nov 08 11:36:56 +0000 2021",
+                "id": 1457673488039301121,
+                "id_str": "1457673488039301121",
+                "text": "A new report has identified structural defect as a major cause of incessant building collapse in Nigeria.\n\nThe repo… https://t.co/iO3Kk28004",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/iO3Kk28004",
+                            "expanded_url": "https://twitter.com/i/web/status/1457673488039301121",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://www.blog2social.com\" rel=\"nofollow\">Blog2Social APP</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1318149906717155328,
+                    "id_str": "1318149906717155328",
+                    "name": "Africa Housing News",
+                    "screen_name": "newsinhousing",
+                    "location": "3 David Mark St. Durumi Abuja",
+                    "description": "African Housing News is your authoritative housing news portal. We keep our audience updated with the latest housing news in Nigeria.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 132,
+                    "friends_count": 89,
+                    "listed_count": 1,
+                    "created_at": "Mon Oct 19 11:20:30 +0000 2020",
+                    "favourites_count": 1,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 4792,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1318152409517051909/YqImILYW_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318152409517051909/YqImILYW_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318149906717155328/1603107045",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 2,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.048,
+        "max_id": 1458208964856799232,
+        "max_id_str": "1458208964856799232",
+        "next_results": "?max_id=1457677320504946693&q=building%20defect&lang=en&count=5&include_entities=1",
+        "query": "building+defect",
+        "refresh_url": "?since_id=1458208964856799232&q=building%20defect&lang=en&include_entities=1",
+        "count": 5,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
