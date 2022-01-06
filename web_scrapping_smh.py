@@ -44,14 +44,10 @@ def get_smsh():
     #click google login
     value = "Continue with Google"
     try:
-        #dform = driver.find_element_by_xpath("//submit[@value='" + value + "']")
         elements = driver.find_elements_by_class_name("_3oI1J")
         btn = elements[0]
-        print('hi')
         btn.click()
-        print('hi2')
     except Exception:
-        print('hi3')
         traceback.print_exc()
         driver.quit()
 
@@ -59,7 +55,7 @@ def get_smsh():
     email_box = driver.find_element_by_xpath("//input[@type='email']")
     #upload_field = driver.find_element_by_css_selector("input[name='filePath'][type='file']")
 
-    email_box.send_keys("budi2020@gmail.com")
+    email_box.send_keys("user@gmail.com")
     email_box.send_keys(Keys.RETURN)
 
     #enter google password
@@ -68,19 +64,10 @@ def get_smsh():
     # password_box.send_keys("JanganMakanMartabak2020")
     # password_box.send_keys(Keys.RETURN)
 
-#    \ # forms = page.all(:xpath, '//form')  # retrieve all the forms and iterate
-# forms.each do |form|
-#    # if there's a password field             if there's two input fields in general
-#   if form.has_css?('input[type=password']) && form.all(:xpath, '//input').count == 2)
-#     return form
-#   end
-# end
-
-
     #driver.quit()
 
 def main():
-    #get_smsh()
+    get_smsh()
 
 if __name__ == "__main__":
     main()
